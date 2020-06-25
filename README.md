@@ -5,6 +5,8 @@
 * docker >= 17.12.0+
 * docker-compose
 
+## Install Docker: https://docs.docker.com/engine/install/
+
 ## Quick Start
 * Clone or download this repository
 * Go inside of directory,  `cd compose-postgres`
