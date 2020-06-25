@@ -22,11 +22,14 @@ This Compose file contains the following environment variables:
 
 ## Access to postgres: 
 * `localhost:5432`
+* If you are using windows localhost may not work, instead use the ip provided by the folowing comand 'docker-machine ip'
 * **Username:** postgres (as a default)
 * **Password:** changeme (as a default)
 
 ## Access to PgAdmin: 
 * **URL:** `http://localhost:5050`
+* If you are using windows localhost may not work, instead use the ip provided by the folowing comand 'docker-machine ip'
+
 * **Username:** pgadmin4@pgadmin.org (as a default)
 * **Password:** admin (as a default)
 
